@@ -1,5 +1,5 @@
-# Buy The Dip
-#### Buy the Dip is a cryptocurrency live price tracker web-app. It not only shows the live price but also the other major information about the available cryptos.
+# CRYPTO-PULSE
+####  CRYPTO-PULSE is a cryptocurrency live price tracker web-app. It not only shows the live price but also the other major information about the available cryptos.
 
 ## Demo
 ####https://buy-dip.netlify.app/
@@ -7,11 +7,11 @@
 ## Installation Guide
 ### clone the project
 ```
-  git clone git@github.com:Ankur-Ydv/Buy-The-Dip.git
+  git clone git@github.com:Ankur-Ydv/bujhf.git
 ```
 ### go to the project directory
 ```
-  cd Buy-The-Dip
+  cd CRYPTO-PULSE
 ```
 ### Install dependencies
 ```
@@ -22,7 +22,7 @@
   npm start
 ```
 ## Made By
-[Ankur Yadav](https://github.com/Ankur-Ydv)
+[PAWAN](https://github.com/PawanDTU)
 
 
 
