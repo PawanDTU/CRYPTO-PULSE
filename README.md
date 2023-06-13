@@ -2,7 +2,7 @@
 ####  CRYPTO-PULSE is a cryptocurrency live price tracker web-app. It not only shows the live price but also the other major information about the available cryptos.
 
 ## Demo
-####https://buy-dip.netlify.app/
+#### https://crypto-pulse-peach.vercel.app/ 
 
 ## Installation Guide
 ### clone the project
