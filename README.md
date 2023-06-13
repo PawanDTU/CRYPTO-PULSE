@@ -7,7 +7,7 @@
 ## Installation Guide
 ### clone the project
 ```
-  git clone git@github.com:Ankur-Ydv/bujhf.git
+  git clone https://github.com/PawanDTU/CRYPTO-PULSE.git
 ```
 ### go to the project directory
 ```
